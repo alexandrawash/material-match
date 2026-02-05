@@ -19,8 +19,8 @@
 ### - Ventrix:
 #### Ventrix™ is an innovative insulation technology that keeps your body warm without overheating, adapting to movement and regulating temperature. It pairs highly breathable fabrics with laser-perforated, stretch synthetic insulation. 
 ---
-- Vectiv (shoes)
-
+- Vectiv (shoes): omit, not related to anything else.
+---
 Ideally asks 4 questions. Shares material information afterwards. 
 There should be an option, once the user is shown their final material, to read more on the other materials.
 

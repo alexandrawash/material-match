@@ -3,7 +3,9 @@
 ### material-match
 #### Asks user a variety of questions before matching them with material that is suitable for them.
 
+---
 ## Materials: 
+---
 ### - Futurelight: 
 #### FUTURELIGHT™ technology allows air and vapor to permeate the fabric while maintaining waterproofness, improving temperature regulation and reducing overheating in changing weather conditions.
 ---
